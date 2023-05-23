@@ -41,14 +41,14 @@ A demo of the simulated data stream based on KDDCup 99 is stored in ./code/data_
 data_loader.py
 ```
 
-Dataset | #classes | #attributes
-- | :-: | :-:
-KDDCup 99 | 4 | 41
-Forest Cover | 7 | 10
-HAR | 6 | 561
-Satimage | 6 | 32
-USPS | 10 | 256
-Pendigits | 10 | 16
+|Dataset | #classes | #attributes|
+|:--------|:---------:|--------:|
+|KDDCup 99 | 4 | 41|
+|Forest Cover | 7 | 10|
+|HAR | 6 | 561|
+|Satimage | 6 | 32|
+|USPS | 10 | 256|
+|Pendigits | 10 | 16|
 
 ## Running
 
